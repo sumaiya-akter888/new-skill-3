@@ -1,0 +1,15 @@
+*{
+    font-size: small;
+}
+
+h5{
+    font-weight: 700;
+}
+
+h6{
+    font-weight: 300;
+}
+
+p{
+    color: gray;
+}
